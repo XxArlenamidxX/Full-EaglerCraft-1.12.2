@@ -35,21 +35,21 @@ sudo -s
 ### Tab 1: Start BungeeCord
 
 ```bash
-cd /bungee
+cd bungee
 java -jar bungee.jar
 ```
 
 ### Tab 2: Start Minecraft Server
 
 ```bash
-cd /server
+cd server
 java -jar server.jar
 ```
 
 ### Tab 3: Start Relay Server (Debug Mode)
 
 ```bash
-cd /relay
+cd relay
 java -jar relay.jar --debug
 ```
 
